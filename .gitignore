@@ -1,0 +1,4 @@
+.mysql-command.sh
+backend/.env
+backend/node_modules/
+backend/uploads/
